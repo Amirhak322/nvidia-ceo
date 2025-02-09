@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "NotoNaskhArabic";
+  src: url("./NotoNaskhArabic/NotoNaskhArabic-Bold.ttf") format("ttf");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "NotoNaskhArabic";
+  src: url("./NotoNaskhArabic/NotoNaskhArabic-Medium.ttf") format("ttf");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "NotoNaskhArabic";
+  src: url("./NotoNaskhArabic/NotoNaskhArabic-Regular.ttf") format("ttf");
+  font-weight: lighter;
+}
