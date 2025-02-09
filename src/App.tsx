@@ -1,10 +1,7 @@
-import { useState } from "react";
 import nvidiaCEO from "./assets/gen-soo-hwang-nvidia.webp";
 import "./App.css";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <>
       <div className="card ">
